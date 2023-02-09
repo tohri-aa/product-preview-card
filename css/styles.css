@@ -30,7 +30,7 @@ body{
     border-bottom-left-radius: 0px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 0px;
-    background-image: url("/images/image-product-mobile.jpg");
+    background-image: url("../images/image-product-mobile.jpg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,7 +135,7 @@ body{
         border-bottom-left-radius: 10px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
-        background-image: url("/images/image-product-desktop.jpg");
+        background-image: url("../images/image-product-desktop.jpg");
     }
 
     .text-container{
