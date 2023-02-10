@@ -25,16 +25,13 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-![](./screenshot.png)
+(./screenshot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://vic-designs.github.io/product-preview-card/)
+- Solution URL: [Add solution URL here](#https://github.com/vic-designs/product-preview-card)
+- Live Site URL: [Add live site URL here](#https://vic-designs.github.io/product-preview-card/)
 
 ### Built with
-
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -49,8 +46,8 @@ I'd like to stillcontinue working on my flexbox, grids to have some form of mast
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vic-designs)
-- Twitter - [@yourusername](https://www.twitter.com/tohri_aa)
+- Frontend Mentor - [@yourusername](#https://www.frontendmentor.io/profile/vic-designs)
+- Twitter - [@yourusername](#https://www.twitter.com/tohri_aa)
 
 ## Acknowledgments
 
