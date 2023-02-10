@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [My solution](https://github.com/vic-designs/product-preview-card)
-- Live Site URL: [Add live site URL here](https://vic-designs.github.io/product-preview-card/)
+- Live Site URL: [Live site URL](https://vic-designs.github.io/product-preview-card/)
 
 ### Built with
 - Semantic HTML5 markup
@@ -46,8 +46,8 @@ I'd like to stillcontinue working on my flexbox, grids to have some form of mast
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vic-designs)
-- Twitter - [@yourusername](https://www.twitter.com/tohri_aa)
+- Frontend Mentor - [@vic-designs](https://www.frontendmentor.io/profile/vic-designs)
+- Twitter - [@tohri_aa](https://www.twitter.com/tohri_aa)
 
 ## Acknowledgments
 
