@@ -25,7 +25,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-(./screenshot.png)
+[take a peek](./screenshot.png)
 
 ### Links
 - Solution URL: [My solution](https://github.com/vic-designs/product-preview-card)
