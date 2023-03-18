@@ -28,11 +28,11 @@ Users should be able to:
 [take a peek](./screenshot.png)
 
 ### Links
-- Solution URL: [My solution](https://github.com/vic-designs/product-preview-card)
-- Live Site URL: [Live site URL](https://vic-designs.github.io/product-preview-card/)
+- Solution URL: [My solution](https://github.com/tohri-aa/product-preview-card)
+- Live Site URL: [Live site URL](https://tohri-aa.github.io/product-preview-card/)
 
 ### Built with
-- Semantic HTML5 markup
+- HTML5
 - CSS custom properties
 - Flexbox
 - CSS Grid
@@ -42,7 +42,7 @@ Users should be able to:
 I learnt how to properly use the media queries and flexbox.
 
 ### Continued development
-I'd like to stillcontinue working on my flexbox, grids to have some form of mastery in their usage.
+I still have to continue with a ton of practice on the proper use of flexbox and grids to have some form of mastery in their usage.
 
 ## Author
 
